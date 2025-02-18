@@ -1,7 +1,7 @@
 import express from "express"
 const app = express();
 
-app.get('/aws/health' , (req, res) => {
+app.get('/aws' , (req, res) => {
     return res.send(`
         <h1>Hello World</h1>
         `)
