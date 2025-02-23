@@ -1,0 +1,14 @@
+{
+  "name": "node-api-ec2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://www.github.com/ctrly4sh/node-ec2",
+  "author": "ctrly4sh <149458186+ctrly4sh@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.5",
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
